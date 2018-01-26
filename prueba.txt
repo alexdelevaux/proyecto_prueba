@@ -1,3 +1,5 @@
 Este es un archivo de prueba creado en la rama master
 
 Esta linea se ha agregado en la rama "test"
+
+Linea conflictiva de MASTER
