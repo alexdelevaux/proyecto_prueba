@@ -1,4 +1,4 @@
-Este es un archivo de prueba creado en la rama master
+Este es un archivo de prueba creado en la rama master, en el repositorio original
 
 Esta linea se ha agregado en la rama "test"
 
